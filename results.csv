@@ -1,0 +1,4 @@
+dwellingType,recordID,dateIssued,permitType,permitValuation,units,address,contractor,statCode,neighborhood,postal,confidence,lat,lng
+Multi,2015-RESCON-0001818,1/4/2016,Residential Construction,184900,1,3728 N Jason St Denver CO,Gallup Development LLC,002 - Two Family Dwellings,Highland,80211,9,39.76867,-104.9992
+Multi,2015-RESCON-0001810,1/4/2016,Residential Construction,184900,1,3722 N Jason St Denver CO,Gallup Development LLC,002 - Two Family Dwellings,Highland,80211,9,39.76848,-104.9992
+Multi,2015-RESCON-0001838,1/4/2016,Residential Construction,184900,1,3726 N Jason St Denver CO,Gallup Development LLC,002 - Two Family Dwellings,Highland,80211,9,39.76858,-104.99925
